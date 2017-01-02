@@ -1,0 +1,53 @@
+Body {
+    padding-top: 50px;
+}
+
+header {
+    background-color: #90EE90;
+    padding-bottom: 55px;
+    padding-top: 55px;
+}
+
+h1 {
+    font-size: 34px;
+    text-align: center;
+    color: #444;
+}
+/* nav $ fixes*/
+.portfolio-btn:hover {
+    cursor: pointer;
+}
+
+.about-btn:hover {
+    cursor: pointer;
+}
+.contact-btn:hover {
+    cursor: pointer;
+}
+/*colors*/
+.cLG{
+  background-color: #00e699;
+}
+.cLO{
+background-color:#e68a00;
+margin:auto;
+}
+.clNav{
+  background-color: #222222;
+}
+.tc1{
+  color: #999999;
+}
+
+/*layout fixes*/
+.fix-About{
+  padding-bottom: 110px;
+  padding-top: 25px;
+}
+.fix-Projects{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.imG{
+  padding-bottom: 30px;
+}
